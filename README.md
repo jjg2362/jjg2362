@@ -1,16 +1,15 @@
-### Hi there 👋
+### Web Front End Developer
 
-<!--
-**jjg2362/jjg2362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+  
+  [![My Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square?&&link=https://velog.io/@jjg2362/)](https://velog.io/@jjg2362/)
+  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCeHt_ill93j7_f5TZYEBAjw)](https://www.youtube.com/channel/UCeHt_ill93j7_f5TZYEBAjw)	
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wornjs2362@gmail.com)](mailto:wornjs2362@gmail.com)
+  
+</div>
